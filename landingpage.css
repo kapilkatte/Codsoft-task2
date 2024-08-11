@@ -10,7 +10,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1rem 2rem;
+    padding: 1px 2px;
     position: fixed; /* Keep header always visible */
     width: 100%;
     z-index: 100; /* Ensure header stays on top */
